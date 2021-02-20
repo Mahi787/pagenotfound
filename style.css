@@ -24,6 +24,14 @@ body{
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+.gn-links{
+    color: royalblue;
+    font-size: 15px;
+}
+.gn-links:hover{
+    color: rgb(4, 13, 41);
+    text-decoration: none;
+}
 .clearfix{
     overflow: auto;
 }
@@ -71,6 +79,7 @@ body{
     height: 108px;
     color: #484848;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 .info button{
     width: 216px;
